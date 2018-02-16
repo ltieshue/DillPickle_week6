@@ -1,0 +1,13 @@
+body{
+    background-color:grey;
+}
+
+.nameComment {
+    height: 300px;
+    width: 900px;
+    text-align: center;
+   }
+
+.tcomment {
+    font-size: 18px;
+}
